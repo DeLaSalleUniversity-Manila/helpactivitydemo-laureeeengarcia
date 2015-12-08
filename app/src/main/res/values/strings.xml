@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HelpActivityDemo</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="help"><b>About:</b>\nThis app was created for the sole purpose of educating people about Breast Cancer.\n\n
+    <b>Instructions:</b>\nJust tap on any category that interests you and the app will do all the work for you.\n\n
+    <b>Features:</b>\n\tInfo: Facts, Treatments\n\tNews: Articles about Breast Cancer\n\tTestimonies: Compilation of stories of people with\n\tBreast Cancer Experience\n\n
+    <b>Support Information:</b>\n\tGoPink! is developed by ZLG.\n\tzion_chan@dlsu.edu.ph\n\tlaureen_garcia@dlsu.edu.ph\n\tglenn_comendador@dlsu.edu.ph
+    \n\n<b>Sources:</b>\n1. http://www.breastcancer.org/treatment \n2. http://www.icanservefoundation.org \n3. http://www.pbcn.org \n4. https://rojosonmedicalclinic.wordpress.com</string>
+
+
+    <string name="incoop">
+        In cooperation with:\n\n
+De La Salle Universitys\n
+CHED Philippine Higher Education Research Network-\n
+(PHERNet) Sustainability Studies Program\n
+Intelligent Systems Laboratory,\n\n
+De La Salle University\n
+
+    </string>
+</resources>
